@@ -1,0 +1,9 @@
+C:\Users\yusufsefa\source\repos\BirKelime\BirKelime\bin\Debug\BirKelime.exe.config
+C:\Users\yusufsefa\source\repos\BirKelime\BirKelime\bin\Debug\BirKelime.exe
+C:\Users\yusufsefa\source\repos\BirKelime\BirKelime\bin\Debug\BirKelime.pdb
+C:\Users\yusufsefa\source\repos\BirKelime\BirKelime\obj\Debug\BirKelime.csprojAssemblyReference.cache
+C:\Users\yusufsefa\source\repos\BirKelime\BirKelime\obj\Debug\BirKelime.Form1.resources
+C:\Users\yusufsefa\source\repos\BirKelime\BirKelime\obj\Debug\BirKelime.Properties.Resources.resources
+C:\Users\yusufsefa\source\repos\BirKelime\BirKelime\obj\Debug\BirKelime.csproj.GenerateResource.cache
+C:\Users\yusufsefa\source\repos\BirKelime\BirKelime\obj\Debug\BirKelime.exe
+C:\Users\yusufsefa\source\repos\BirKelime\BirKelime\obj\Debug\BirKelime.pdb
